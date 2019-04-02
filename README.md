@@ -33,6 +33,7 @@ Scout’s wingspan of 1.2 meters, combined with the simple fuselage design, allo
 __Keywords: [VTOL, User-Friendly, Autonomous, Gravity Feed, Algorithms, Safety Protocols, Stabilization]__
 
 
+#### CAD Design (SolidWorks) ####
 <img width="586" alt="Screen Shot 2019-04-02 at 12 20 32 AM" src="https://user-images.githubusercontent.com/45777902/55376183-42660a80-54dd-11e9-9d98-25745e30743b.png">
 
 __Sentinel__
