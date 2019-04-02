@@ -2,8 +2,6 @@
 ## Practical Engineering for Computations in Agricultural Models by Team Flight 01890 ##
 
 ## Brief Introduction: ##
-Over April break weekend, the members of the WHS Real World Design Challenge (RWDC) Team traveled to Washington DC to compete in the national and international rounds of the competition. 
-
 Real World Design Challenge (RWDC) is an annual competition for students to come up with a solution to a real world problem. In 2018, students were tasked to design a system of drones for precision agriculture. 
 
 The team Flight 01890 was titled _1st place for State Governor’s Cup_. As state champions, the team was invited to Washington DC, after advancing to compete in the national and international rounds of the competition. After the national round, the was the awarded with the _National Merit Award for having the most creative solution that involved unique flight path algorithms._
