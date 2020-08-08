@@ -10,7 +10,7 @@ The team Flight 01890 was titled _1st place for State Governor’s Cup_. As stat
 Furthermore, in May 2018, the team was invited to the Massachusetts Statehouse to be recognized and receive _Letter of Commendation by Commonwealth of MA Speaker of the House for Achievement in STEM_ and _Official Citation by Commonwealth of MA State Senate for excellence in STEM._
 
 __Team Members:__
-Jennifer (Jaehei) Kim, Valeriy Soltan, Sam Lee, Tyler Clift, Roy Xing
+[Jaehei (Jennifer) Kim](https://github.com/jennkimerson "Jennifer Kim Github Profile"), [Valeriy Soltan](https://github.com/vsoltan "Valeriy Soltan Github Profile"), [Tyler Clift](https://github.com/tyjclift "Tyler Clift Github Profile"), Sam Lee, Roy Xing
 
 ## Project Overview: ##
 
