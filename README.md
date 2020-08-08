@@ -7,7 +7,7 @@ Real World Design Challenge (RWDC) is an annual competition for students to come
 
 The team Flight 01890 was titled _1st place for State Governor’s Cup_. As state champions, the team was invited to Washington DC, after advancing to compete in the national and international rounds of the competition. After the national round, the was the awarded with the _National Merit Award for having the most creative solution that involved unique flight path algorithms._
 
-Furthermore, in May 2018, the team was invited to the Massachusetts Statehouse to be recognized and receive _Letter of Commendation by Commonwealth of MA Speaker of the House for Achievement in STEM_ and _Official Citation by Commonwealth of MA State Senate for excellence in STEM._
+Furthermore, in May 2018, the team was invited to the Massachusetts Statehouse to be recognized and received the _Letter of Commendation by Commonwealth of MA Speaker of the House for Achievement in STEM_ and _Official Citation by Commonwealth of MA State Senate for excellence in STEM._
 
 __Team Members:__
 [Jaehei (Jennifer) Kim](https://github.com/jennkimerson "Jennifer Kim Github Profile"), [Valeriy Soltan](https://github.com/vsoltan "Valeriy Soltan Github Profile"), [Tyler Clift](https://github.com/tyjclift "Tyler Clift Github Profile"), Sam Lee, Roy Xing
